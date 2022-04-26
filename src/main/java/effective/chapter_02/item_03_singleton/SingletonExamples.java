@@ -1,4 +1,4 @@
-package effective.chapter_01.item_03_singleton;
+package effective.chapter_02.item_03_singleton;
 
 public class SingletonExamples {
 

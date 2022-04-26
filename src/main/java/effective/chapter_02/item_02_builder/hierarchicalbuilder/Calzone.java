@@ -1,4 +1,4 @@
-package effective.chapter_01.item_02_builder.hierarchicalbuilder;
+package effective.chapter_02.item_02_builder.hierarchicalbuilder;
 
 public class Calzone extends Pizza{
 

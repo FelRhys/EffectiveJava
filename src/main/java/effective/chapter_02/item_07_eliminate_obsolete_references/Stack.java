@@ -1,4 +1,4 @@
-package effective.chapter_01.item_07_eliminate_obsolete_references;
+package effective.chapter_02.item_07_eliminate_obsolete_references;
 
 import java.util.Arrays;
 

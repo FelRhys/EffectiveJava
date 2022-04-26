@@ -1,4 +1,4 @@
-package effective.chapter_01.item_08_avoid_finalizers_and_cleaners;
+package effective.chapter_02.item_08_avoid_finalizers_and_cleaners;
 
 import java.lang.ref.Cleaner;
 

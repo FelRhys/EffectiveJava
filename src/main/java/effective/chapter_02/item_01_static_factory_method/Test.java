@@ -1,4 +1,4 @@
-package effective.chapter_01.item_01_static_factory_method;
+package effective.chapter_02.item_01_static_factory_method;
 
 import java.time.Instant;
 import java.util.Date;

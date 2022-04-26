@@ -1,4 +1,4 @@
-package effective.chapter_01.item_06_avoid_unnecessary_instances;
+package effective.chapter_02.item_06_avoid_unnecessary_instances;
 
 // Hideously slow program! Can you spot the object creation? (Page 24)
 public class Sum {

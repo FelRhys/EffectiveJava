@@ -1,4 +1,4 @@
-package effective.chapter_01.item_09_prefer_try_with_resources;
+package effective.chapter_02.item_09_prefer_try_with_resources;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

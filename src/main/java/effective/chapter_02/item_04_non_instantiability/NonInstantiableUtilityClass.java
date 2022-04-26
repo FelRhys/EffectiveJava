@@ -1,4 +1,4 @@
-package effective.chapter_01.item_04_non_instantiability;
+package effective.chapter_02.item_04_non_instantiability;
 
 public class NonInstantiableUtilityClass {
 

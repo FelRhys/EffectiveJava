@@ -1,4 +1,4 @@
-package effective.chapter_01.item_05_dependency_injection;
+package effective.chapter_02.item_05_dependency_injection;
 
 import java.util.Objects;
 
